@@ -18,8 +18,8 @@ The  **.env** file is your environment variable file and is used to define the v
 
 ## Additional Commands:
 
- - To view all images run : `docker-compose images
- - To get shell access to a server type: `docker-compose exec container-name command`
+ - To view all images run : `docker-compose images`
+ - To get shell access to a server type: `docker-compose exec container-name command` 
 	 - e.g:.  `docker-compose exec owncloud /bin/bash`
  - ownCloud provides a list of commands that can be run to perform general administration tasks. A list of ownCloud commands can be found on their website
 	 - e.g:.`docker-compose exec owncloud occ user:list` 
