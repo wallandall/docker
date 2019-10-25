@@ -1,4 +1,4 @@
-# Readme
+# ownCloud
 
 Owncloud  is a **file sharing** platform that makes it easy to share and sync content. The docker-compose.yml file contins images for the Owncloud Server, Maria DB and Redis.
 
